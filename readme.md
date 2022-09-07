@@ -51,6 +51,12 @@ $ cd lista-presenca
 
 # Agora digite este comando, para editar/testar o projeto
 $ code .
+
+# Digite no terminal para instalar as dependências
+$ npm install
+
+# Digite no terminal para rodar o aplicativo
+$ npm run dev
 ```
 
 ### Tecnologias utilizadas 
