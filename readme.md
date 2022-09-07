@@ -44,10 +44,10 @@ $ https://code.visualstudio.com/
 # Acesse o terminal/cmd de sua plataforma (Win, Linux, etc)
 
 # Clone este repositório com o seguinte comando abaixo
-$ git clone https://github.com/dimasdevspro/lista-presença
+$ git clone https://github.com/dimasdevspro/lista-presenca
 
 # Ainda no terminal, acesse a pasta com mais um comando
-$ cd lista-presença
+$ cd lista-presenca
 
 # Agora digite este comando, para editar/testar o projeto
 $ code .
